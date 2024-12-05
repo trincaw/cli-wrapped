@@ -18,7 +18,7 @@ To use a virtual environment and install requirements with pip, follow these ste
         ```
     - On macOS and Linux using fish:
         ```bash
-        source venv/bin/activate.fish
+        source .venv/bin/activate.fish
         ```
 
 3. **Install the requirements**:
